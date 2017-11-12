@@ -23,7 +23,7 @@ import org.firstinspires.ftc.robotcore.external.navigation.VuforiaTrackables;
 
 
 
-@TeleOp(name="image")
+@Autonomous(name="image")
 //@Disabled
 public class image extends LinearOpMode {
 

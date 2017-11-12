@@ -6,7 +6,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
 
 /**
- * Created by user on 02/11/2017.
+ * Created by alon on 02/11/2017.
  */
 @TeleOp (name = "MechanumOpMode")
 public class MechanunOpMode extends OpMode {
@@ -14,10 +14,10 @@ public class MechanunOpMode extends OpMode {
     DcMotor BackLeftMotor;
     DcMotor FrontRightMotor;
     DcMotor BackRightMotor;
-    double PFL=0;
-    double PBL=0;
-    double PFR=0;
-    double PBR=0;
+    double PFL;
+    double PBL;
+    double PFR;
+    double PBR;
 
     @Override
     public void init() {

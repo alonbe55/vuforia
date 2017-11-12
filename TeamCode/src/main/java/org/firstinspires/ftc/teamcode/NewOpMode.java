@@ -5,7 +5,7 @@ import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.HardwareMap;
 /**
- * Created by user on 10/10/2017.
+ * Created by alon on 10/10/2017.
  */
 @Autonomous(name ="drive1")
 public class NewOpMode extends OpMode {

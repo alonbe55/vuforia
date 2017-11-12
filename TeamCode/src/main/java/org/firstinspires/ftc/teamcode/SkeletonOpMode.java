@@ -6,7 +6,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.DcMotorSimple;
 
 /**
- * Created by user on 27/09/2017.
+ * Created by alon on 27/09/2017.
  */
 @TeleOp(name = "SkeletonOpMode")
 public class SkeletonOpMode extends  OpMode {
