@@ -69,6 +69,7 @@ public class FtcOpModeRegister implements OpModeRegister {
         manager.register("SkeletonOpMode", SkeletonOpMode.class);
         manager.register("MechanunOpMode " , MechanunOpMode.class);
         manager.register("bbb", Blabla.class);
+        manager.register("degrres", vuforiadegrees.class);
 
         /**
          * Any manual OpMode class registrations should go here.
